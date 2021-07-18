@@ -1,0 +1,134 @@
+@import "./variables";
+@import "./globals";
+
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100vw;
+  height: 10vh;
+  gap: 75vw;
+  background-color: $secondaryColor;
+
+  img {
+    width: 15%;
+    margin-left: 20px;
+    margin-top: 15px;
+  }
+
+  div img {
+    width: 10%;
+  }
+
+}
+
+.section-one {
+  background-color: $secondaryColor;
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  img {
+    width: 40%;
+  }
+
+  div {
+    width: 25rem;
+
+    h1 {
+      font-size: 3rem;
+    }
+
+    h3 {
+      font-weight: 200;
+      margin-top: 5px;
+    }
+  }
+  
+}
+
+.section-two {
+  background-color: $primaryColor;
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    width: 40vw;
+    text-align: right;
+    line-height: 1.8rem;
+  }
+
+  img {
+    width: 50%;
+  }
+}
+
+.countdown {
+  display: flex;
+}
+
+.time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $greyColor;
+  width: 3.5vw;
+  height: 12vh;
+  margin-left: 0.5rem;
+  margin-top: 2rem;
+  border-radius: 1.5rem;
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-weight: 200;
+    font-size: 0.8rem;
+  }
+}
+
+.section-three {
+  background-color: $secondaryColor;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  div {
+    margin-top: 2.5rem;
+  }
+
+  input {
+    width: 25vw;
+    height: 5vh;
+    border-radius: 3rem;
+    padding: 0.3rem;
+  }
+
+  button {
+    width: 8vw;
+    height: 7vh;
+    border-radius: 3rem;
+  }
+}
+
+.section-four {
+  background-color: $greyColor;
+  text-align: center;
+  width: 100vw;
+  height: 6vh;
+
+  p {
+    padding-top: 1rem;
+  }
+}
