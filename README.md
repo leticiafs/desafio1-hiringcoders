@@ -1,3 +1,4 @@
+![landing](https://user-images.githubusercontent.com/53658438/126075373-c7703650-8822-49b2-aa16-18dc17db6761.png)
 
 # Desafio 1 - Hiring Coders 2021
 
@@ -9,12 +10,9 @@
 
 ### Web
 <p float="left" align="center">
-  <img src="https://user-images.githubusercontent.com/53658438/121277456-ffff9b80-c8a6-11eb-9425-0cf71a137f93.png" width="240" height="135">
-  <img src="https://user-images.githubusercontent.com/53658438/121277462-01c95f00-c8a7-11eb-8215-4c6fc480671d.png" width="240" height="135">
-  <img src="https://user-images.githubusercontent.com/53658438/121277464-01c95f00-c8a7-11eb-91a5-6d3165c32bbd.png" width="240" height="135">
-  <img src="https://user-images.githubusercontent.com/53658438/121277465-0261f580-c8a7-11eb-93a1-5c2c350abc8c.png" width="240" height="135">
-  <img src="https://user-images.githubusercontent.com/53658438/121277467-02fa8c00-c8a7-11eb-8dda-46e0e100d029.png" width="240" height="135">
-  <img src="https://user-images.githubusercontent.com/53658438/121277469-02fa8c00-c8a7-11eb-81fb-63845647abd3.png" width="240" height="135">
+  <img src="https://user-images.githubusercontent.com/53658438/126075385-674db69a-3faf-4116-8ff6-69d12071c15c.jpeg" width="240" height="135">
+  <img src="https://user-images.githubusercontent.com/53658438/126075402-d262fda6-bab2-411e-a0f7-5cde9f2ed436.jpeg" width="240" height="135">
+  <img src="https://user-images.githubusercontent.com/53658438/126075422-0db7c1a3-3c21-4de3-9113-10d38ce4cb4a.jpeg" width="240" height="135">
 </p>
 
 
